@@ -85,6 +85,9 @@ Navigate to the frontend folder:
 ```bash
 cd frontend
 
+<img width="1917" height="956" alt="image" src="https://github.com/user-attachments/assets/eb7bfce7-75e2-45e5-8314-05f1caf3bb20" />
+
+
 
 
 
