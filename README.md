@@ -43,4 +43,49 @@ Clone the Repository:
 'bash
 git clone https://github.com/rithikachoudhary25-creator/Students-Management-System.git
 
+Frontend:
+The frontend of the Student Management System is developed using React.js and Vite. It provides a simple and user-friendly interface for managing student details.
+
+Frontend Feature:
+- Add new student details
+- Display all student records
+- Search students by name
+- Update existing student information
+- Delete student records
+- Communicates with the backend using REST APIs
+- Responsive and simple user interface
+
+Technologies used:
+- React.js
+- Vite
+- JavaScript
+- HTML
+- CSS
+- Fetch API
+
+Frontend Structure:
+frontend/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── package.json
+└── vite.config.js
+
+Frontend Working:
+The React frontend communicates with the Node.js and Express.js backend through REST APIs. Student data is retrieved from MongoDB through the backend and displayed in the frontend.
+
+Users can add, search, update, and delete student records directly through the web interface.
+
+Running Frontend:
+Navigate to the frontend folder:
+```bash
+cd frontend
+
+
+
+
 
