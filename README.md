@@ -275,4 +275,13 @@ Grade Calculation
 GPA Calculation       
 CGPA Calculation      
 Admin Dashboard       
-Student Profile       
+Student Profile
+
+SCREENSHOT
+
+LOGIN:<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/85e5b129-947d-43c9-a011-4143a04b79d3" />
+ADMIN:<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/53d0a3e2-518a-4e7f-9ee2-3b010493da3a" />
+STUDENT:<img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/8e4a64a2-a9ad-4ec9-a905-647beecf8bf5" />
+
+
+
